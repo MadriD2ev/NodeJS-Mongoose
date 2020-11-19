@@ -1,0 +1,15 @@
+{
+  "name": "miprimermiddleware",
+  "version": "1.0.0",
+  "description": "Mi primer middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madrid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1"
+  }
+}
